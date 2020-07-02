@@ -1,0 +1,13 @@
+{
+  "name": "p2-do-bouncer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@prisma/cli": "2.1.3"
+  },
+  "dependencies": {
+    "@prisma/client": "2.1.3",
+    "express": "^4.17.1"
+  }
+}
